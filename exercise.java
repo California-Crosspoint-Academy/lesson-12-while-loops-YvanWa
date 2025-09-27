@@ -13,7 +13,7 @@ public class exercise{
         //     // body
         // } while(condition);
 
-        // Q3: For-loop rewritten as while-loop
+        // Q3: 
         int mVar = 97;
         int k = 1, p = 0;
         while (mVar <= 195) {
@@ -22,7 +22,7 @@ public class exercise{
             mVar++;
         }
 
-        // Q4: For-loop rewritten as do-while
+        // Q4: 
         int v = 2;
         k = 1;
         double q = 0.0;
@@ -32,7 +32,7 @@ public class exercise{
             v *= 3;
         } while (v <= 195);
 
-        // Q5: Control expression = !done
+        // Q5:  !done
 
         // Q6: Error → 'do;'  should be 'do { } while(condition);'
 
@@ -54,7 +54,7 @@ public class exercise{
 
         // Q11: Use 'break;' to exit loop prematurely
 
-        // Q12: Answer = while-loop or for-loop (condition tested before execution)
+        // Q12:  while-loop or for-loop
 
         // Q13: Complete code
         double m = 92.801;
