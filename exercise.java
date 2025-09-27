@@ -52,6 +52,8 @@ public class exercise{
         }
         System.out.println();
 
+        //// missing output answer
+
         // Q11: Use 'break;' to exit loop prematurely
 
         // Q12:  while-loop or for-loop
@@ -66,6 +68,8 @@ public class exercise{
             m += 3;
         } while (j < 6);
         System.out.println(m);
+
+        //// missing output answer
 
         // Q14
         Scanner sc = new Scanner(System.in);
